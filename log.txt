@@ -1,0 +1,4 @@
+[14-Nov-25 04:11:50 PM] [INFO] - TIMEZONE synced with logging status
+[14-Nov-25 04:11:50 PM] [WARNING] - BASE_URL not provided!
+[14-Nov-25 04:11:51 PM] [INFO] - Initializing Aria2c
+[14-Nov-25 04:11:52 PM] [INFO] - Creating client from BOT_TOKEN
